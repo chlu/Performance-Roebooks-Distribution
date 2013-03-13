@@ -1,0 +1,20 @@
+-
+  name: 'Root'
+  uriPattern: ''
+  defaults:
+    '@format': 'html'
+    '@package': 'RobertLemke.Example.Bookshop'
+    '@controller': 'Book'
+
+##
+# Flow subroutes
+#
+
+-
+  name: 'Flow'
+  uriPattern: '<FlowSubroutes>'
+  defaults:
+    '@format': 'html'
+  subRoutes:
+    FlowSubroutes:
+      package: TYPO3.Flow

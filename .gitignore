@@ -1,5 +1,5 @@
 /Build/
-/Configuration/
+/Configuration/Settings.yaml
 /Data/
 /Packages/
 /Web/
@@ -8,3 +8,10 @@
 /flow
 /flow.bat
 /tmp
+bin/doctrine
+bin/doctrine.php
+Configuration/PackageStates.php
+Configuration/Testing/Settings.yaml
+Configuration/Development/Settings.yaml.example
+Configuration/Production/Settings.yaml.example
+Configuration/Settings.yaml.example
