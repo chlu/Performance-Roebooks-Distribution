@@ -6,14 +6,18 @@
 		{
 			"type": "composer",
 			"url": "http://ci.typo3.robertlemke.net/job/composer-packages/ws/repository/"
-		}
+		},
+		{
+            "type": "git",
+            "url": "https://github.com/robertlemke/TYPO3.Flow.git"
+        }
 	],
 	"config": {
 		"vendor-dir": "Packages/Libraries",
 		"bin-dir": "bin"
 	},
 	"require": {
-		"typo3/flow": "dev-master",
+		"typo3/flow": "dev-rl-lazydi",
 		"robertlemke/example-bookshop": "dev-master",
 		"typo3/twitter-bootstrap": "*"
 	},

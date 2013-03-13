@@ -1,5 +1,5 @@
 {
-    "hash": "48a66323e9600550f9e7eb7322ddc885",
+    "hash": "1ffae6af2e9961cf03b6d027b9c7cec8",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -861,11 +861,11 @@
         },
         {
             "name": "typo3/flow",
-            "version": "dev-master",
+            "version": "dev-rl-lazydi",
             "source": {
                 "type": "git",
-                "url": "git://git.typo3.org/FLOW3/Packages/TYPO3.FLOW3.git",
-                "reference": "57a78d3b789f24393f66a996faa62f28b469fefe"
+                "url": "https://github.com/robertlemke/TYPO3.Flow.git",
+                "reference": "e51c83a774b3b5e0c2deedc7c6eb0d0657128020"
             },
             "require": {
                 "doctrine/data-fixtures": "*",
@@ -888,13 +888,12 @@
                     "TYPO3\\Flow": "Classes"
                 }
             },
-            "notification-url": "http://packagist.org/downloads/",
             "license": [
                 "LGPL-3.0+"
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2013-03-08 07:43:15"
+            "time": "2013-03-13 14:34:09"
         },
         {
             "name": "typo3/flow-composer-installers",
