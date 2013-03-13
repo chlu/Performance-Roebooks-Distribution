@@ -865,7 +865,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/robertlemke/TYPO3.Flow.git",
-                "reference": "e51c83a774b3b5e0c2deedc7c6eb0d0657128020"
+                "reference": "810c1bba93d86c438fa8e84eb7069ebe7d9e85b7"
             },
             "require": {
                 "doctrine/data-fixtures": "*",
@@ -893,7 +893,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2013-03-13 14:34:09"
+            "time": "2013-03-13 16:56:44"
         },
         {
             "name": "typo3/flow-composer-installers",
