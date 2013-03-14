@@ -9,7 +9,7 @@
 		},
 		{
             "type": "git",
-            "url": "https://github.com/robertlemke/TYPO3.Flow.git"
+            "url": "https://github.com/chlu/TYPO3.Flow.git"
         }
 	],
 	"config": {
@@ -17,7 +17,7 @@
 		"bin-dir": "bin"
 	},
 	"require": {
-		"typo3/flow": "dev-rl-lazydi",
+		"typo3/flow": "dev-chlu-performancesprint",
 		"robertlemke/example-bookshop": "dev-master",
 		"typo3/twitter-bootstrap": "*"
 	},
