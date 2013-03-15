@@ -335,12 +335,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/dbal.git",
-                "reference": "569f1aed578585df904c7dbfc43aa39cb09877cc"
+                "reference": "8df9cd3668363f017dfea56b5ad448ea74dae49b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/dbal/zipball/569f1aed578585df904c7dbfc43aa39cb09877cc",
-                "reference": "569f1aed578585df904c7dbfc43aa39cb09877cc",
+                "url": "https://api.github.com/repos/doctrine/dbal/zipball/8df9cd3668363f017dfea56b5ad448ea74dae49b",
+                "reference": "8df9cd3668363f017dfea56b5ad448ea74dae49b",
                 "shasum": ""
             },
             "require": {
@@ -390,7 +390,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2013-03-04 22:37:48"
+            "time": "2013-03-14 21:55:05"
         },
         {
             "name": "doctrine/inflector",
@@ -577,12 +577,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/doctrine2.git",
-                "reference": "563fdb953be4f86eeb5b9ab82e82e6a98cf14f6b"
+                "reference": "8d78b90bca909344720b911fda346009b9cb9fcb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/doctrine2/zipball/563fdb953be4f86eeb5b9ab82e82e6a98cf14f6b",
-                "reference": "563fdb953be4f86eeb5b9ab82e82e6a98cf14f6b",
+                "url": "https://api.github.com/repos/doctrine/doctrine2/zipball/8d78b90bca909344720b911fda346009b9cb9fcb",
+                "reference": "8d78b90bca909344720b911fda346009b9cb9fcb",
                 "shasum": ""
             },
             "require": {
@@ -639,7 +639,7 @@
                 "database",
                 "orm"
             ],
-            "time": "2013-03-12 21:53:10"
+            "time": "2013-03-14 22:42:28"
         },
         {
             "name": "imagine/Imagine",
@@ -865,7 +865,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/chlu/TYPO3.Flow.git",
-                "reference": "2bb92105bc90926e1379035d7df8ba877000ab23"
+                "reference": "8ed78f54133dbfb0132d7561b846ce3215a5c20d"
             },
             "require": {
                 "doctrine/data-fixtures": "*",
@@ -893,7 +893,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2013-03-14 15:39:57"
+            "time": "2013-03-15 14:26:16"
         },
         {
             "name": "typo3/flow-composer-installers",
@@ -968,7 +968,7 @@
             "source": {
                 "type": "git",
                 "url": "git://git.typo3.org/FLOW3/Packages/TYPO3.Fluid.git",
-                "reference": "8266014f25749d3e09ce11d000f554066093bde3"
+                "reference": "60843dffbbcfe7a90f6aba739f41ac0c627c4044"
             },
             "require": {
                 "typo3/flow": "*",
@@ -985,7 +985,7 @@
                 "LGPL-3.0+"
             ],
             "description": "Next-Generation Templating Framework for TYPO3 Flow and TYPO3 Neos, also backported to TYPO3 CMS",
-            "time": "2013-03-07 10:19:32"
+            "time": "2013-03-15 08:36:08"
         },
         {
             "name": "typo3/imagine",
